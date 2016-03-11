@@ -1,0 +1,28 @@
+name: Vibe Peace
+favicon: null
+layout_spectrum: 0.6450863280333579
+typography_spectrum: 0.9943617801181972
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.38456601393409073
+  lightness: 0.7461625870782882
+  saturation: 0.2765658220741898
+  rhythmicContrast: 0.6821779031306505
+purpose: []
